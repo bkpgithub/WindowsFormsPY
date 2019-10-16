@@ -1,0 +1,13 @@
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\WindowsFormsPY.exe.config
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\WindowsFormsPY.exe
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\WindowsFormsPY.pdb
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\HtmlAgilityPack.dll
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\bin\Debug\HtmlAgilityPack.xml
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.Properties.Resources.resources
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.csproj.GenerateResource.cache
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.csproj.CoreCompileInputs.cache
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.csproj.CopyComplete
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.exe
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.pdb
+C:\Users\huaguodong\Source\Repos\WindowsFormsPY\WindowsFormsPY\obj\Debug\WindowsFormsPY.Form1.resources
